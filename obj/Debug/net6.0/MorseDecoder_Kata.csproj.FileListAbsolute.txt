@@ -1,0 +1,15 @@
+/Users/adamsears/Projects/MorseDecoder_Kata/MorseDecoder_Kata/bin/Debug/net6.0/MorseDecoder_Kata
+/Users/adamsears/Projects/MorseDecoder_Kata/MorseDecoder_Kata/bin/Debug/net6.0/MorseDecoder_Kata.deps.json
+/Users/adamsears/Projects/MorseDecoder_Kata/MorseDecoder_Kata/bin/Debug/net6.0/MorseDecoder_Kata.runtimeconfig.json
+/Users/adamsears/Projects/MorseDecoder_Kata/MorseDecoder_Kata/bin/Debug/net6.0/MorseDecoder_Kata.dll
+/Users/adamsears/Projects/MorseDecoder_Kata/MorseDecoder_Kata/bin/Debug/net6.0/MorseDecoder_Kata.pdb
+/Users/adamsears/Projects/MorseDecoder_Kata/MorseDecoder_Kata/obj/Debug/net6.0/MorseDecoder_Kata.csproj.AssemblyReference.cache
+/Users/adamsears/Projects/MorseDecoder_Kata/MorseDecoder_Kata/obj/Debug/net6.0/MorseDecoder_Kata.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adamsears/Projects/MorseDecoder_Kata/MorseDecoder_Kata/obj/Debug/net6.0/MorseDecoder_Kata.AssemblyInfoInputs.cache
+/Users/adamsears/Projects/MorseDecoder_Kata/MorseDecoder_Kata/obj/Debug/net6.0/MorseDecoder_Kata.AssemblyInfo.cs
+/Users/adamsears/Projects/MorseDecoder_Kata/MorseDecoder_Kata/obj/Debug/net6.0/MorseDecoder_Kata.csproj.CoreCompileInputs.cache
+/Users/adamsears/Projects/MorseDecoder_Kata/MorseDecoder_Kata/obj/Debug/net6.0/MorseDecoder_Kata.dll
+/Users/adamsears/Projects/MorseDecoder_Kata/MorseDecoder_Kata/obj/Debug/net6.0/refint/MorseDecoder_Kata.dll
+/Users/adamsears/Projects/MorseDecoder_Kata/MorseDecoder_Kata/obj/Debug/net6.0/MorseDecoder_Kata.pdb
+/Users/adamsears/Projects/MorseDecoder_Kata/MorseDecoder_Kata/obj/Debug/net6.0/MorseDecoder_Kata.genruntimeconfig.cache
+/Users/adamsears/Projects/MorseDecoder_Kata/MorseDecoder_Kata/obj/Debug/net6.0/ref/MorseDecoder_Kata.dll

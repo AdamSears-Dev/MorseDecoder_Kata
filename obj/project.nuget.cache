@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AKkVpYohLVHHMsPcAqHeHpmcZCVFbyGkiHjwE1nWRNTJ7JyXzQFIa8Fdmn3D0iqcyCaM7GdDk4z8077xbQKhWw==",
+  "success": true,
+  "projectFilePath": "/Users/adamsears/Projects/MorseDecoder_Kata/MorseDecoder_Kata/MorseDecoder_Kata.csproj",
+  "expectedPackageFiles": [
+    "/Users/adamsears/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.19/microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "/Users/adamsears/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.19/microsoft.netcore.app.host.osx-x64.6.0.19.nupkg.sha512",
+    "/Users/adamsears/.nuget/packages/microsoft.netcore.app.ref/6.0.19/microsoft.netcore.app.ref.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

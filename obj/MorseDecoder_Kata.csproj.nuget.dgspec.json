@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/adamsears/Projects/MorseDecoder_Kata/MorseDecoder_Kata/MorseDecoder_Kata.csproj": {}
+  },
+  "projects": {
+    "/Users/adamsears/Projects/MorseDecoder_Kata/MorseDecoder_Kata/MorseDecoder_Kata.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/adamsears/Projects/MorseDecoder_Kata/MorseDecoder_Kata/MorseDecoder_Kata.csproj",
+        "projectName": "MorseDecoder_Kata",
+        "projectPath": "/Users/adamsears/Projects/MorseDecoder_Kata/MorseDecoder_Kata/MorseDecoder_Kata.csproj",
+        "packagesPath": "/Users/adamsears/.nuget/packages/",
+        "outputPath": "/Users/adamsears/Projects/MorseDecoder_Kata/MorseDecoder_Kata/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/adamsears/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.19, 6.0.19]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[6.0.19, 6.0.19]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.19, 6.0.19]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.305/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
