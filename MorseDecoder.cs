@@ -58,6 +58,6 @@ class MorseCodeDecoder
     // Main function for testing the Decode method
     public static void Main()
     {
-        Console.WriteLine(MorseCodeDecoder.Decode(".... . -.--   .--- ..- -.. .")); // Should print "HEY JUDE"!
+        Console.WriteLine(MorseCodeDecoder.Decode(".... . -.--   .--- ..- -.. .")); // Should print "HEY JUDE"
     }
 }
